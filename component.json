@@ -1,0 +1,9 @@
+{
+    "repos": "https://github.com/CodeSeven/toastr.git",
+    "version": "2.1.2",
+    "name": "jquery-toastr",
+    "main": "toastr.js",
+    "dependencies": {
+        "jquery": ">=1.7"
+    }
+}
